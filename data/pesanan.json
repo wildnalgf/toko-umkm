@@ -1,0 +1,24 @@
+[
+    {
+        "kode": "PSN-0001",
+        "waktu": "2026-11-12 14:15",
+        "nama": "Wildan Maulana",
+        "whatsapp": "082374832431",
+        "produk": "Kopi Robusta Lereng Lawu",
+        "harga": 45000,
+        "jumlah": 1,
+        "total": 45000,
+        "catatan": "Kopinya enak dengan harga terjangkau"
+    },
+    {
+        "kode": "PSN-0002",
+        "waktu": "2026-11-12 14:16",
+        "nama": "Wildan Maulana",
+        "whatsapp": "083741914193",
+        "produk": "Batik Tulis Parang",
+        "harga": 350000,
+        "jumlah": 1,
+        "total": 350000,
+        "catatan": "Batiknya bagus dan saya suka produknya"
+    }
+]
